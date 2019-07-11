@@ -2,7 +2,7 @@
 
 ## 简介
 
-####1、设计JSON数据结构，方便读取成员值
+#### 1、设计JSON数据结构，方便读取成员值
 
 JSON是一种树形数据结构。具体JSON格式可参考：http://www.w3school.com.cn/json/json_syntax.asp
 
@@ -23,7 +23,7 @@ Object ::= KeyValue+
 KeyValue ::= Key Value
 ```
 
-####2、把JSON值格式化为YAML格式的字符串
+#### 2、把JSON值格式化为YAML格式的字符串
 
 
 
